@@ -5,6 +5,8 @@
       3. Delete button: This will allow the user to delete an existing card from the deck.
 To read more about the added features, please visit the following link: https://docs.google.com/presentation/d/1pyVc7dgxKlv005nS0wX1rPIaP7v_j9geek_VdiI5iPQ/edit?usp=sharing
 
+To access most updated code please visit: https://github.com/Anam15/FlashcardApp-Improved
+
 ## Lab 4
 
 ### App Description
